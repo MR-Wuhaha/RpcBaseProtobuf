@@ -1,3 +1,0 @@
-/home/RpcClient/build/CMakeFiles/rebuild_cache.dir
-/home/RpcClient/build/CMakeFiles/RpcClient.dir
-/home/RpcClient/build/CMakeFiles/edit_cache.dir
