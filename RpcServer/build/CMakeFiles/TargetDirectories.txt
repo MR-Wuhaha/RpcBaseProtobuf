@@ -1,3 +1,0 @@
-/home/RpcBaseProtobuf/RpcServer/build/CMakeFiles/rebuild_cache.dir
-/home/RpcBaseProtobuf/RpcServer/build/CMakeFiles/Mserver.dir
-/home/RpcBaseProtobuf/RpcServer/build/CMakeFiles/edit_cache.dir
